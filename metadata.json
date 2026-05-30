@@ -1,0 +1,8 @@
+{
+  "name": "Google Maps AI Chatbot",
+  "description": "An interactive chatbot that utilizes real-time Google Maps grounding and interactive advanced markers to answer location-specific questions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
